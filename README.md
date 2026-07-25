@@ -1,2 +1,2 @@
 # github-badges-helper
-hi
+h
